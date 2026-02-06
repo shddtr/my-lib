@@ -1,3 +1,3 @@
 # my-lib
 
-current version is v2
+current version is v3
